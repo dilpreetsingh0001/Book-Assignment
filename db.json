@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "title": "Book Title",
+    "author": "Author Name",
+    "genre": "Fiction",
+    "publicationYear": 2020,
+    "imageUrl": "http://example.com/image.jpg",
+    "ISBN": "123-4567890123",
+    "description": "A short description of the book."
+  }
+  
